@@ -1,10 +1,10 @@
 class Comchan < Formula
   desc "A Blazingly Fast Serial monitor written in Rust with Plotting support"
   homepage "https://github.com/Vaishnav-Sabari-Girish/ComChan"
-  url "https://github.com/Vaishnav-Sabari-Girish/ComChan/archive/refs/tags/v0.2.2.tar.gz"
-  sha256 "f23e7abc29a66273ba7e2d635d4cb1e06550c164dbb4683e12babf0e906c941e"
+  url "https://github.com/Vaishnav-Sabari-Girish/ComChan/archive/refs/tags/v0.2.3.tar.gz"
+  sha256 "14f19c38c4330df8c5bf9012467f638a89a72251b8ebe13d46d4bb20af131942"
   license "MIT"   
-  version "0.2.2"
+  version "0.2.3"
 
   depends_on "rust" => :build
 
