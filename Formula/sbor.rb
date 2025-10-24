@@ -1,9 +1,10 @@
 class Sbor < Formula
   desc "C Project Manager"
   homepage "https://github.com/Vaishnav-Sabari-Girish/sbor"
-  url "https://github.com/Vaishnav-Sabari-Girish/sbor/archive/v0.1.1.tar.gz"
-  sha256 "9b687549310b45e68a864df508a90b2571b6cf8458f3db72c085f6ad3da1f865"
+  url "https://github.com/Vaishnav-Sabari-Girish/sbor/archive/v0.1.2.tar.gz"
+  sha256 "bbb03050dc3f06a85ed7dc53b57b8c302a7dda778bd9ce086413b6b0769eba5c"
   license "MIT"
+  version "0.1.2"
 
   depends_on "cmake" => :build
 
