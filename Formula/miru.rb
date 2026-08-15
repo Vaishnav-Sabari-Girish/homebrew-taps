@@ -1,10 +1,10 @@
 class Miru < Formula
   desc "A zooming daemon for wayland"
-  homepage "https://github.com/Vaishnav-Sabari-Girish/miru"
-  url "https://github.com/Vaishnav-Sabari-Girish/miru/releases/download/v0.4.0/miru-v0.4.0-linux-x86_64.tar.gz"
-  sha256 "bf034bcc07bab6cbdadb7a2b7c490f03e2e6a4675babf807970c335138fbb488"
+  homepage "https://codeberg.org/Vaishnav-Sabari-Girish/miru"
+  url "https://codeberg.org/Vaishnav-Sabari-Girish/miru/releases/download/v0.5.0/miru-v0.5.0-linux-x86_64.tar.gz"
+  sha256 "216b1dad7b109af70a44bcc8c3ad0050751c570c0b965623016f345f592a4d18"
   license "MIT"   
-  version "0.4.0"
+  version "0.5.0"
 
   depends_on :linux 
 
